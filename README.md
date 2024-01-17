@@ -1,6 +1,6 @@
 ![React Interview Questions & Answers](./images/collab/React.js-Questions-Git-BG.png)
 
-# Master Interview Questions & Answers.
+# Master Your Interview Questions & Answers.
 
 
 <p align="center">
