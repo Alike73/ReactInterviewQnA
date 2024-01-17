@@ -1,34 +1,10 @@
-# React Interview Questions & Answers
+![React Interview Questions & Answers](./images/collab/React.js-Questions-Git-BG.png)
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
+# Master Interview Questions & Answers.
 
----
 
-<div>
-<p align="center">
-  <a href=https://react.gg/?s=rjsiq>
-    <img src="./images/collab/uidev-banner4x.png" alt="React interview" width="100%">
-  </a>
-</p>
-</div>
 
----
-
-<div>
-<p align="center">
-  <a href=https://zerotomastery.io/?utm_source=github&utm_medium=sponsor&utm_campaign=reactjs-interview-questions>
-    <img src=https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:70/https://www.filepicker.io/api/file/AKYtjj5SSGyJuyZrkAB2 alt="ZTM Logo" width="100" height="50">
-  </a>
-    <ol>
-      <li>I recommend this <a href="https://links.zerotomastery.io/react_sudheer">React course</a> if you’re serious about learning React and want to go beyond the basics</li>
-      <li>Want to ace your coding interview and get hired at your dream company? <a href="http://links.zerotomastery.io/mci_sudheer">Take this coding interview bootcamp</a></li>
-    </ol>
-  </p>
-</div>
-
----
-
-**Note:** This repository is specific to ReactJS. Please check [Javascript Interview questions](https://github.com/sudheerj/javascript-interview-questions) for core javascript questions.
+**Note:** This repository is specific to ReactJS. Please check [Javascript Interview questions](https://github.com/Alike73/JSInterviewQnA/blob/main/README.md) for core javascript questions.
 
 ### Table of Contents
 
@@ -7312,8 +7288,8 @@ const loadUser = async () => {
 
 ## Disclaimer
 
-The questions provided in this repository are the summary of frequently asked questions across numerous companies. We cannot guarantee that these questions will actually be asked during your interview process, nor should you focus on memorizing all of them. The primary purpose is for you to get a sense of what some companies might ask — do not get discouraged if you don't know the answer to all of them ⁠— that is ok!
+The questions compiled in this repository represent a collection of commonly encountered interview queries from various companies. It's important to note that there's no assurance these specific questions will be asked in your interview. Instead, the repository aims to provide you with insights into the types of questions certain companies might pose. Don't be disheartened if you're unable to answer every question; it's perfectly normal! The key is to use these questions as a tool to understand the interview landscape.
 
-Good luck with your interview 😊
+Good luck with your interview 👋
 
 ---
