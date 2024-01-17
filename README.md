@@ -3,6 +3,12 @@
 # Master Interview Questions & Answers.
 
 
+<p align="center">
+  <a href=https://github.com/Alike73>
+    <img src="./images/collab/logo1.png" alt="my Logo" width="80">
+  </a>
+</p>
+
 
 **Note:** This repository is specific to ReactJS. Please check [Javascript Interview questions](https://github.com/Alike73/JSInterviewQnA/blob/main/README.md) for core javascript questions.
 
